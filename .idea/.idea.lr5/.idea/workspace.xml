@@ -4,9 +4,24 @@
     <projectFile profileName="http">lr5/lr5.csproj</projectFile>
     <projectFile profileName="https">lr5/lr5.csproj</projectFile>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3647cb6-69e2-43f2-b2d6-b5db8b48e0da" name="Changes" comment="Initial commit">
+    <list default="true" id="e3647cb6-69e2-43f2-b2d6-b5db8b48e0da" name="Changes" comment="Added gitignore">
+      <change afterPath="$PROJECT_DIR$/lr5/api-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.lr5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.lr5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lr5/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lr5/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lr5/api-data-example.json" beforeDir="false" afterPath="$PROJECT_DIR$/lr5/api-data-example.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lr5/lr5.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/lr5/lr5.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lr5/obj/Debug/net7.0/lr5.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lr5/obj/Debug/net7.0/lr5.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lr5/obj/Debug/net7.0/lr5.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lr5/obj/Debug/net7.0/lr5.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lr5/obj/Debug/net7.0/lr5.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lr5/obj/Debug/net7.0/lr5.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lr5/obj/lr5.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/lr5/obj/lr5.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lr5/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/lr5/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lr5/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lr5/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lr5/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/lr5/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lr5/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/lr5/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +39,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/lr5/api-data.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lr5/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/max/RiderProjects/lr5/lr5/obj/Debug/net7.0/lr5.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -95,7 +113,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706562541665</updated>
-      <workItem from="1706562542700" duration="410000" />
+      <workItem from="1706562542700" duration="905000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -105,15 +123,41 @@
       <option name="project" value="LOCAL" />
       <updated>1706562925492</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added gitignore">
+      <option name="closed" value="true" />
+      <created>1706563037210</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706563037210</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added gitignore">
+      <option name="closed" value="true" />
+      <created>1706563045497</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706563045497</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added gitignore">
+      <option name="closed" value="true" />
+      <created>1706563159123</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706563159123</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Added gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added gitignore" />
   </component>
 </project>
