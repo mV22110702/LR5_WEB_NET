@@ -8,16 +8,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3647cb6-69e2-43f2-b2d6-b5db8b48e0da" name="Changes" comment="Added gitignore">
+    <list default="true" id="e3647cb6-69e2-43f2-b2d6-b5db8b48e0da" name="Changes" comment="Added api json config">
+      <change afterPath="$PROJECT_DIR$/lr5/WeatherHttpClient.cs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lr5/api-data.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.lr5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.lr5/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lr5/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lr5/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lr5/api-data-example.json" beforeDir="false" afterPath="$PROJECT_DIR$/lr5/api-data-example.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lr5/lr5.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/lr5/lr5.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lr5/obj/Debug/net7.0/lr5.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lr5/obj/Debug/net7.0/lr5.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lr5/obj/Debug/net7.0/lr5.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lr5/obj/Debug/net7.0/lr5.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lr5/obj/Debug/net7.0/lr5.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lr5/obj/Debug/net7.0/lr5.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lr5/obj/Debug/net7.0/lr5.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lr5/obj/Debug/net7.0/lr5.csproj.AssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lr5/obj/lr5.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/lr5/obj/lr5.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lr5/obj/lr5.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/lr5/obj/lr5.csproj.nuget.g.targets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lr5/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/lr5/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lr5/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lr5/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lr5/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/lr5/obj/project.packagespec.json" afterDir="false" />
@@ -113,7 +114,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706562541665</updated>
-      <workItem from="1706562542700" duration="905000" />
+      <workItem from="1706562542700" duration="3142000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -147,7 +148,23 @@
       <option name="project" value="LOCAL" />
       <updated>1706563159123</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added api json config">
+      <option name="closed" value="true" />
+      <created>1706563477163</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706563477163</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added api json config">
+      <option name="closed" value="true" />
+      <created>1706563486113</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706563486113</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +175,7 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Added gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added gitignore" />
+    <MESSAGE value="Added api json config" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added api json config" />
   </component>
 </project>

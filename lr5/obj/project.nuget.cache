@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "2+BAxtCy9Op0WvW1B75fRWbk1Zdj4v/Mhc28Q0+7ncB9HvFocZ1FDeGO2nnlyWeSNl3i9aDznrUp3gs5lzWVTQ==",
+  "dgSpecHash": "Wzr0lnRUiNaWYu33nEzfktJUXWMHD87QwFCMRQ4eZYsYxpM9nCurXXLu12edpoM0KcvGpPMCW8Miy+DUR1nADg==",
   "success": true,
   "projectFilePath": "/Users/max/RiderProjects/lr5/lr5/lr5.csproj",
   "expectedPackageFiles": [
     "/Users/max/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/max/.nuget/packages/system.net.http.json/8.0.0/system.net.http.json.8.0.0.nupkg.sha512",
+    "/Users/max/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
+    "/Users/max/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512",
     "/Users/max/.nuget/packages/microsoft.netcore.app.ref/7.0.15/microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
     "/Users/max/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
     "/Users/max/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.15/microsoft.netcore.app.host.osx-arm64.7.0.15.nupkg.sha512"
