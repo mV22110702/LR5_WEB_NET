@@ -5,7 +5,7 @@ var config = JsonConvert.DeserializeObject<ApiConfig>(apiConfig);
 ArgumentException.ThrowIfNullOrEmpty(config?.ApiKey);
 
 
-class ApiConfig
+internal class ApiConfig
 {
     public string ApiKey { get; set; }
 }
