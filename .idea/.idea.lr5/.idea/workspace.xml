@@ -13,10 +13,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.lr5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.lr5/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lr5/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lr5/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lr5/WeatherHttpClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lr5/WeatherHttpClient.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lr5/lr5.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/lr5/lr5.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lr5/obj/Debug/net7.0/lr5.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lr5/obj/Debug/net7.0/lr5.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lr5/obj/Debug/net7.0/lr5.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lr5/obj/Debug/net7.0/lr5.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lr5/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/lr5/obj/rider.project.model.nuget.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +48,8 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;.NET Launch Settings Profile.lr5: http.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.Unnamed.executor&quot;: &quot;Debug&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
@@ -68,7 +68,25 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected=".NET Launch Settings Profile.lr5: http">
+  <component name="RunManager" selected=".NET Project.Unnamed">
+    <configuration name="Unnamed" type="DotNetProject" factoryName=".NET Project" nameIsGenerated="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/lr5/bin/Debug/net7.0/lr5" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lr5/bin/Debug/net7.0" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/lr5/lr5.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="net7.0" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="lr5: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/lr5/lr5.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value="net8.0" />
@@ -80,6 +98,7 @@
       <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
       <option name="SEND_DEBUG_REQUEST" value="1" />
       <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <option name="RUNTIME_TYPE" value="coreclr" />
       <method v="2">
         <option name="Build" />
       </method>
@@ -99,6 +118,11 @@
         <option name="Build" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue=".NET Launch Settings Profile.lr5: http" />
+      <item itemvalue=".NET Launch Settings Profile.lr5: https" />
+      <item itemvalue=".NET Project.Unnamed" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -109,7 +133,8 @@
       <option name="presentableId" value="Default" />
       <updated>1706562541665</updated>
       <workItem from="1706562542700" duration="3217000" />
-      <workItem from="1706607871022" duration="631000" />
+      <workItem from="1706607871022" duration="2559000" />
+      <workItem from="1706631910592" duration="3256000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -167,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706565781056</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Done get method">
+      <option name="closed" value="true" />
+      <created>1706609039790</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1706609039790</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,6 +213,7 @@
     <MESSAGE value="Added gitignore" />
     <MESSAGE value="Added api json config" />
     <MESSAGE value="Started doing response dto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Started doing response dto" />
+    <MESSAGE value="Done get method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done get method" />
   </component>
 </project>
